@@ -9,7 +9,7 @@ python -u "c:\Users\10062038\Desktop\Fortify homework\python\filenyzer.py" <targ
 ```
 
 Here is example of working scan of your directory: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Filenyzer working")
+![alt text](https://github.com/sottlmarek/Filenyzer/blob/master/filenyzer.JPG "Filenyzer working")
 
 
 # Output: 
