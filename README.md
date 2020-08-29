@@ -5,7 +5,7 @@ This tools analyses selected folder. It scans for directories and subdirectories
 
 # Usage:
 ```
-python -u "c:\Users\sottlmarek\Desktop\Fortify homework\python\filenyzer.py" <target directory> 
+python -u "c:\Users\user\Desktop\Fortify homework\python\filenyzer.py" <target directory> 
 ```
 
 Here is example of working scan of your directory: 
